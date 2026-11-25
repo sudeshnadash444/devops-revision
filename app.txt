@@ -1,1 +1,2 @@
 Welcome to the application - Updated by Developer A
+Welcome to the application - Updated by Developer B
